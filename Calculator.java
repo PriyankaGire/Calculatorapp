@@ -16,5 +16,6 @@ public class Calculator {
 		System.out.println("Division= "+n1/n2);
 		
 		System.out.println("Percentage= "+(n1+n2/200)*100);
+		
 	}
 }
